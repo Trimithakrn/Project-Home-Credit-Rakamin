@@ -24,4 +24,4 @@
 The project is built with python
 
 ## Authors
-- [@octokatherine](https://www.github.com/Trimithakrn)
+- [@trimithakrn](https://www.github.com/Trimithakrn)
